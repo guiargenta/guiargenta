@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-> Software Development Student<br>-> Looking for Internship</p>
+<p align="left">-> Software Development Student<br>-> Looking for an Internship</p>
 
 ###
 
