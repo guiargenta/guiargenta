@@ -8,6 +8,18 @@
 
 ###
 
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">## 👋 Sobre mim  <br><br>Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos, atualmente no 4º semestre, em transição de carreira para a área de tecnologia.  <br>Tenho interesse em desenvolvimento **back-end** e também curiosidade em **soluções mobile**.  <br><br>Tecnologias que venho estudando e praticando:  <br>- **Java (Spring Boot)** – APIs REST, Spring Data, Spring Security  <br>- **Banco de dados** – PostgreSQL, MySQL  <br>- **Kotlin (Jetpack Compose)** – desenvolvimento mobile Android</p>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
