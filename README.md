@@ -1,6 +1,10 @@
 <h2 align="left">About Me</h2>
 
-<p align="left"><br>Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos de Porto Alegre, atualmente no 5º semestre.<br>Tenho interesse em desenvolvimento back-end utilizando Java e Spring, no front-end com React JS e também curiosidade em soluções mobile.  <br><br>Tecnologias que venho estudando e praticando:  <br>- Java (Spring Boot) – APIs REST, Spring Data, Spring Security  <br>- Banco de dados – PostgreSQL, MySQL  <br>- React JS</p>
+<p align="left"><br>Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos de Porto Alegre, atualmente no 5º semestre.<br>Tenho interesse em desenvolvimento back-end utilizando Java e Spring, no front-end com React e também curiosidade em soluções mobile.<br>
+<br>Tecnologias que venho estudando e praticando: 
+<br>- Java (Spring Boot) – APIs REST, Spring Data, Spring Security
+<br>- Banco de dados – PostgreSQL, MySQL  
+<br>- React TS</p>
 
 ###
 
