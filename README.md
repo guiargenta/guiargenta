@@ -1,6 +1,6 @@
 <h2 align="left">About Me</h2>
 
-<p align="left"><br>Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos, atualmente no 4º semestre, em transição de carreira para a área de tecnologia.  <br>Tenho interesse em desenvolvimento back-end e também curiosidade em soluções mobile.  <br><br>Tecnologias que venho estudando e praticando:  <br>- Java (Spring Boot) – APIs REST, Spring Data, Spring Security  <br>- Banco de dados – PostgreSQL, MySQL  <br>- Kotlin (Jetpack Compose) – desenvolvimento mobile Android</p>
+<p align="left"><br>Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos de Porto Alegre, atualmente no 5º semestre.<br>Tenho interesse em desenvolvimento back-end utilizando Java e Spring, no front-end com React JS e também curiosidade em soluções mobile.  <br><br>Tecnologias que venho estudando e praticando:  <br>- Java (Spring Boot) – APIs REST, Spring Data, Spring Security  <br>- Banco de dados – PostgreSQL, MySQL  <br>- React JS</p>
 
 ###
 
@@ -13,13 +13,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
 
 ###
