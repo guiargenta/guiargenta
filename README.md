@@ -49,7 +49,7 @@ Sobre mim:
 <br>
 
 ### 🎨 Front-end 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,html,css" />
 
 <br>
 
