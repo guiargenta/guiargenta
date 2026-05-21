@@ -64,12 +64,8 @@ Sobre mim:
 
 📊 GitHub Stats
 <div align="center"> 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=guiargenta&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-</picture>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiargenta&show_icons=true&theme=tokyonight)
 
 <br>
 
