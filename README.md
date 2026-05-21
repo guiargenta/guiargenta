@@ -64,7 +64,12 @@ Sobre mim:
 
 📊 GitHub Stats
 <div align="center"> 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiargenta)](https://github.com/guiargenta/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=guiargenta&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+</picture>
 
 <br>
 
