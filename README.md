@@ -46,7 +46,7 @@ Sobre mim:
 ### 💻 Back-end 
 <img src="https://skillicons.dev/icons?i=java,spring" />
 
-<br><br> 
+<br>
 
 ### 🎨 Front-end 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css" />
