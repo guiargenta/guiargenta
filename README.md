@@ -51,12 +51,12 @@ Sobre mim:
 ### 🎨 Front-end 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css" />
 
-<br><br> 
+<br>
 
 ### 🗄️ Banco de Dados 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" /> 
 
-<br><br> 
+<br>
 
 ### ⚙️ Ferramentas 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
@@ -67,16 +67,27 @@ Sobre mim:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiargenta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias"/> </div>
 
+<br>
+
 🔥 GitHub Streak
 <div align="center"> 
     <img src="https://streak-stats.demolab.com?user=guiargenta&theme=tokyonight&locale=pt_BR" /> 
 </div>
 
-📌 Atualmente estudando
+<br>
+
+📌 Atualmente estudando:
 - Spring Security + JWT
 - Next.js e Vite
 - Arquitetura de APIs REST
 - Docker
 
+
 🌎 Conecte-se comigo
-<div align="center"> <a href="https://www.linkedin.com/in/guilhermeargenta/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:guiargenta92@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/guilhermeargenta/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+###
