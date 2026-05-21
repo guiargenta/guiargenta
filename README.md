@@ -30,11 +30,15 @@
     }
 
 Sobre mim:
+<br>
 🎓 Estudante do penúltimo semestre de Análise e Desenvolvimento de Sistemas na Universidade do Vale do Rio dos Sinos (Porto Alegre)
+<br>
 💻 Focado em desenvolvimento Back-end com Java e Spring Boot
+<br>
 ⚛️ Desenvolvendo interfaces modernas com React, Next.js e TypeScript
+<br>
 📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
-
+<br>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -56,14 +60,17 @@ Sobre mim:
 
 ### ⚙️ Ferramentas 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
-
 </div>
 
 📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiargenta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias"/> </div>
+<div align="center"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiargenta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias"/> </div>
 
 🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=guiargenta&theme=tokyonight&locale=pt_BR" /> </div>
+<div align="center"> 
+    <img src="https://streak-stats.demolab.com?user=guiargenta&theme=tokyonight&locale=pt_BR" /> 
+</div>
 
 📌 Atualmente estudando
 - Spring Security + JWT
