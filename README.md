@@ -1,40 +1,62 @@
-<h2 align="left">About Me</h2>
+👨‍💻 Guilherme Argenta
 
-<p align="left"><br>Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos de Porto Alegre, atualmente no 5º semestre.<br>Tenho interesse em desenvolvimento back-end utilizando Java e Spring, no front-end com React e também curiosidade em soluções mobile.<br>
-<br>Tecnologias que venho estudando e praticando: 
-<br>- Java (Spring Boot) – APIs REST, Spring Data, Spring Security
-<br>- Banco de dados – PostgreSQL, MySQL  
-<br>- React TS</p>
+public class Developer {
 
-###
+    String name = "Guilherme Argenta";
+    String role = "Full Stack Developer in progress";
 
-<h2 align="left">Techs</h2>
+    String[] backend = {
+        "Java",
+        "Spring Boot"
+    };
+    
+    String[] frontend = {
+        "React",
+        "Next.js",
+        "Vite",
+        "TypeScript"
+    };
 
-###
+    String[] database = {
+        "PostgreSQL",
+        "MySQL"
+    };
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-</div>
+    String[] currentlyLearning = {
+        "Spring Security",
+        "JWT",
+        "React",
+    };
+}
 
-###
+Sobre mim:
+🎓 Estudante do penúltimo semestre de Análise e Desenvolvimento de Sistemas na Universidade do Vale do Rio dos Sinos (Porto Alegre)
+💻 Focado em desenvolvimento Back-end com Java e Spring Boot
+⚛️ Desenvolvendo interfaces modernas com React, Next.js e TypeScript
+📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
 
-<h2 align="left">Social Media</h2>
+🛠️ Tech Stack
+<div align="center">
+💻 Back-end
+<img src="https://skillicons.dev/icons?i=java,spring" />
+🎨 Front-end
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css" />
+🗄️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+⚙️ Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" /> </div>
 
-###
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guiargenta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias"/> </div>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/guilhermeargenta/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&locale=pt_BR" /> </div>
 
-###
+📌 Atualmente estudando
+- Spring Security + JWT
+- Next.js e Vite
+- Arquitetura de APIs REST
+- Docker
+
+🌎 Conecte-se comigo
+<div align="center"> <a href="https://www.linkedin.com/in/guilhermeargenta/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:SEU_EMAIL"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
