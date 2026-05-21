@@ -62,26 +62,11 @@ Sobre mim:
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 </div>
 
-📊 GitHub Stats
-<div align="center"> 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiargenta&show_icons=true&theme=tokyonight)
-
-<br>
-
-🔥 GitHub Streak
-<div align="center"> 
-    <img src="https://streak-stats.demolab.com?user=guiargenta&theme=tokyonight&locale=pt_BR" /> 
-</div>
-
-<br>
-
 📌 Atualmente estudando:
 - Spring Security + JWT
 - Next.js e Vite
 - Arquitetura de APIs REST
 - Docker
-
 
 🌎 Conecte-se comigo
 ###
